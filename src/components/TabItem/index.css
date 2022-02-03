@@ -1,0 +1,23 @@
+.tab-item-list-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+
+.text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.text-btn {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+.decorated-txt {
+  color: #fec653;
+  text-decoration: underline;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
